@@ -42,4 +42,4 @@ SEED takes integer values,
 
 ## How to Cite
 
-If you use Teq, please cite the following paper : [NeurIPS'21](https://meelgroup.github.io/files/publications/NeurIPS21_PCtest.pdf). Here is the [BIB file](https://www.comp.nus.edu.sg/~meel/bib/PM21.bib)
+If you use Teq, please cite the following paper : [NeurIPS'21](https://meelgroup.github.io/files/publications/NeurIPS21_PCtest.pdf). Here is the [BIB file](https://dblp.org/rec/conf/nips/PoteM21.html?view=bibtex)
